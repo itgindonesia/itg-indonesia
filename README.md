@@ -1,6 +1,6 @@
 # ITG INDONESIA LANDING PAGE
 
-[Landing Page](https://www.tailwindtoolbox.com/templates/landing-page) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
+[ITG INDONESIA Landing Page]([https://www.tailwindtoolbox.com/templates/landing-page](https://itgindonesia.com/)) is an open source, generic landing page template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).
 
 ![Landing Page](https://www.tailwindtoolbox.com/templates/landing-page.png)
 
